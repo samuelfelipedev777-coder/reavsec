@@ -42,7 +42,7 @@ export default function HomeSection() {
           className="border border-white/10 relative h-20 flex md:block justify-center items-end"
         >
           <div className="absolute bottom-0 left-1/2 -translate-x-1/2 md:transform-none w-[60%] md:w-[25%] h-12 border-l border-r border-t border-white/10 flex items-center px-4 bg-black/20 md:bg-transparent">
-            <Image src="/persons.png" alt="avatar" width={56} height={56} className="object-cover" />
+            <Image src="/Persons.png" alt="avatar" width={56} height={56} className="object-cover" />
             <p className="ml-3 text-xs md:text-sm text-white/60">Junte se a mentes brilhantes!</p>
           </div>
         </motion.div>
